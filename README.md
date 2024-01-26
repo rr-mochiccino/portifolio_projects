@@ -22,7 +22,12 @@ Análise do conjunto de dados para classificação de resenhas de filmes para di
 
 **Tecnologias utilizadas:** Python, Apache Spark, NLP, WordCloud, NLTK, Decision Tree, Random Forest Classifier
 
+### [Recomendação de Músicas com API do Spotify (PT)](https://github.com/rr-mochiccino/portifolio_projects/blob/main/Recomendador_de_Musica.ipynb) (PT-BR)
 
+Análise por meio da clusterização das faixas musicais provenientes da API do Spotify. Com o emprego de clusterização, o algoritmo é capacitado para agrupar músicas com características semelhantes. A partir desses agrupamentos, o algoritmo tem a capacidade de fornecer recomendações de um conjunto de músicas similares com base em uma única faixa apresentada como referência.
+
+**Tecnologias utilizadas:** Python, Pandas, Plotly, SKlearn, PCA, K-Means, Spotipy
+     
 ******
 
 ## Sobre Mim
@@ -69,6 +74,12 @@ Data analysis of fashion brands that appeared in the Interbrand's Top 100 Global
 Analysis of a dataset for movie review classification to distinguish between positive and negative evaluations. The dataset is derived from the Internet Movie Database (IMDb), an extensive online database of movies, TV shows, and celebrities, that was translated to portuguese.
 
 **Technologies Used**: Python, Apache Spark, NLP, WordCloud, NLTK, Decision Tree, Random Forest Classifier
+
+
+### [Spotify API Music Recommender(PT)](https://github.com/rr-mochiccino/portifolio_projects/blob/main/Recomendador_de_Musica.ipynb) (PT-BR)
+Analysis through clustering of music tracks from the Spotify API. By employing clustering, the algorithm is capable of grouping songs with similar characteristics. From these clusters, the algorithm has the ability to provide recommendations for a set of similar songs based on a single track presented as a reference.
+
+**Technologies Used**: Python, Pandas, Plotly, SKlearn, PCA, K-Means, Spotipy
 
 ******
 
